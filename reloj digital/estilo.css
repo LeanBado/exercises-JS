@@ -1,0 +1,25 @@
+*{
+    background-color: aliceblue;
+}
+#reloj{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 60px;
+    text-shadow:  0px 0px 1px grey;
+    color: black;
+    
+}
+
+.reloj-contenedor{
+    background-color: lightblue;
+    padding: 25px;
+    max-width: 350px;
+    text-align: center;
+    border-radius: 5px;
+    margin: 0 auto;
+    margin-top: 10%;
+}
+
+#fecha{
+    letter-spacing: 10px;
+    font-size: 15px
+}
