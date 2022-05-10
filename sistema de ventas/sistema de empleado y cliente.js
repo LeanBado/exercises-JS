@@ -85,3 +85,5 @@ let persona5 = new Cliente("Omar","Gimenez", 30, new Date());
 console.log(persona5.toString());
 let persona6 = new Cliente ("Lucas","Gomez",77, new Date());
 console.log(persona6.toString())
+
+console.log(typeof(persona1))
